@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Acne and Rosacea",
+    "description": "Inflammatory skin conditions causing pimples, redness, and irritation.",
+    "precautions": "Avoid oily cosmetics, wash face regularly, avoid touching face.",
+    "medicines": "Benzoyl peroxide, Salicylic acid, Topical antibiotics"
+  },
+  {
+    "name": "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions",
+    "description": "Precancerous or cancerous skin lesions caused by prolonged sun exposure.",
+    "precautions": "Avoid UV exposure, wear sunscreen, regular skin checkups.",
+    "medicines": "Topical chemotherapy (e.g., 5-FU), Cryotherapy, Surgical excision"
+  },
+  {
+    "name": "Atopic Dermatitis",
+    "description": "Chronic skin condition causing dry, itchy, and inflamed skin.",
+    "precautions": "Keep skin moisturized, avoid allergens, use gentle soaps.",
+    "medicines": "Hydrocortisone creams, Moisturizers, Antihistamines"
+  },
+  {
+    "name": "Bullous Disease",
+    "description": "Autoimmune disorder causing blistering on the skin.",
+    "precautions": "Avoid skin trauma, monitor blisters, consult dermatologist.",
+    "medicines": "Steroids, Immunosuppressants"
+  },
+  {
+    "name": "Cellulitis Impetigo and other Bacterial Infections",
+    "description": "Bacterial infections of the skin that can cause redness, swelling, and pus.",
+    "precautions": "Keep wounds clean, avoid sharing personal items, seek medical attention.",
+    "medicines": "Antibiotics like Cephalexin, Clindamycin"
+  },
+  {
+    "name": "Eczema",
+    "description": "A group of conditions causing itchy, inflamed skin.",
+    "precautions": "Use fragrance-free moisturizers, avoid scratching.",
+    "medicines": "Corticosteroid creams, Antihistamines"
+  },
+  {
+    "name": "Exanthems and Drug Eruptions",
+    "description": "Skin rashes caused by infections or reactions to medications.",
+    "precautions": "Avoid known allergens, consult healthcare provider before taking new medications.",
+    "medicines": "Antihistamines, Corticosteroids"
+  },
+  {
+    "name": "Hair Loss Photos Alopecia and other Hair Diseases",
+    "description": "Hair loss disorders leading to thinning or bald patches on the scalp.",
+    "precautions": "Avoid tight hairstyles, reduce stress, eat a balanced diet.",
+    "medicines": "Minoxidil, Finasteride"
+  },
+  {
+    "name": "Herpes HPV and other STDs",
+    "description": "Viral infections causing skin blisters or lesions.",
+    "precautions": "Practice safe sex, avoid contact with infected areas.",
+    "medicines": "Antiviral drugs like Acyclovir"
+  },
+  {
+    "name": "Light Diseases and Disorders of Pigmentation",
+    "description": "Conditions affecting skin pigmentation such as vitiligo or melasma.",
+    "precautions": "Use sunscreen, avoid tanning, follow dermatological advice.",
+    "medicines": "Topical corticosteroids, Depigmenting agents"
+  },
+  {
+    "name": "Lupus and other Connective Tissue Diseases",
+    "description": "Autoimmune diseases causing inflammation in skin and other tissues.",
+    "precautions": "Avoid sun exposure, manage stress, adhere to medication.",
+    "medicines": "Corticosteroids, Immunosuppressants"
+  },
+  {
+    "name": "Melanoma Skin Cancer Nevi and Moles",
+    "description": "Cancerous skin growths, often appearing as irregular moles.",
+    "precautions": "Avoid excessive sun exposure, use sunscreen, monitor moles.",
+    "medicines": "Surgical removal, Chemotherapy, Immunotherapy"
+  },
+  {
+    "name": "Nail Fungus and other Nail Disease",
+    "description": "Fungal infections of the nail causing discoloration and thickening.",
+    "precautions": "Keep nails clean and dry, avoid sharing nail tools.",
+    "medicines": "Antifungal creams or tablets"
+  },
+  {
+    "name": "Poison Ivy Photos and other Contact Dermatitis",
+    "description": "Skin irritation caused by contact with allergens or irritants.",
+    "precautions": "Avoid known irritants, wear protective clothing.",
+    "medicines": "Hydrocortisone cream, Antihistamines"
+  },
+  {
+    "name": "Psoriasis pictures Lichen Planus and Related Diseases",
+    "description": "Chronic inflammatory skin diseases causing scaling and redness.",
+    "precautions": "Moisturize regularly, avoid stress triggers.",
+    "medicines": "Topical corticosteroids, Vitamin D analogs"
+  },
+  {
+    "name": "Scabies Lyme Disease and other Infestations and Bites",
+    "description": "Skin reactions from insect bites or infestations like mites.",
+    "precautions": "Maintain hygiene, avoid sharing clothing or bedding.",
+    "medicines": "Permethrin cream, Oral ivermectin"
+  },
+  {
+    "name": "Seborrheic Keratoses and other Benign Tumors",
+    "description": "Non-cancerous skin growths that may look like warts or moles.",
+    "precautions": "Monitor for changes, avoid self-treatment.",
+    "medicines": "Cryotherapy, Curettage"
+  },
+  {
+    "name": "Systemic Disease",
+    "description": "Diseases affecting multiple organs and may show skin symptoms.",
+    "precautions": "Follow systemic disease treatment plan, regular checkups.",
+    "medicines": "Varies by disease (e.g., corticosteroids, immunosuppressants)"
+  },
+  {
+    "name": "Tinea Ringworm Candidiasis and other Fungal Infections",
+    "description": "Fungal infections affecting skin, nails, and scalp.",
+    "precautions": "Keep skin dry, avoid sharing personal items.",
+    "medicines": "Topical and oral antifungals"
+  },
+  {
+    "name": "Urticaria Hives",
+    "description": "Red, itchy welts that result from skin reactions.",
+    "precautions": "Identify and avoid triggers (foods, medications).",
+    "medicines": "Antihistamines"
+  },
+  {
+    "name": "Vascular Tumors",
+    "description": "Abnormal growths of blood vessels in the skin.",
+    "precautions": "Monitor growths, avoid trauma to affected area.",
+    "medicines": "Laser therapy, Beta-blockers"
+  },
+  {
+    "name": "Vasculitis Photos",
+    "description": "Inflammation of blood vessels causing skin discoloration or sores.",
+    "precautions": "Manage underlying condition, avoid infections.",
+    "medicines": "Corticosteroids, Immunosuppressants"
+  },
+  {
+    "name": "Warts Molluscum and other Viral Infections",
+    "description": "Skin infections caused by viruses resulting in growths or bumps.",
+    "precautions": "Avoid touching warts, use personal hygiene products.",
+    "medicines": "Salicylic acid, Cryotherapy"
+  }
+]

@@ -43,7 +43,7 @@ The Skin Disease Detection App is a mobile application that uses deep learning t
    1. Ensure `model.h5` is in the correct path in your backend.
    2. Flask will load this model for prediction on image upload.
 
-6. License 
+6. License - 
 This app is made only for learning and project work. It is not meant to give medical advice or treatment. Please talk to a doctor for any skin problems.
 
 
